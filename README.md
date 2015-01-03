@@ -9,3 +9,5 @@ expression and then applying some syntactic sugar to the results.
 This is an experiment to see if it makes sense to put step-by-step demos 
 onto github. (It's also my first time using git, so if it looks like I
 have no idea what I'm doing, that's probably the case.)
+
+Video walkthrough of this code is available on YouTube: https://www.youtube.com/watch?v=WJItr-ecdCE
